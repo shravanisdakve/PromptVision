@@ -33,7 +33,7 @@ PromptVision is an advanced AI-powered image generation web application that tra
 - Implemented community gallery for sharing and exploring generated visuals.
 - Provided an intuitive interface for novice and expert users.
 
-### Prerequisites
+## Prerequisites
 
 - Node.js (v14 or higher)
 - npm or yarn
