@@ -67,7 +67,8 @@ npm run dev
 - **Marketplace Integration** – Enable users to sell/licence their AI-generated content.
 - **3D & Animation Support** – Expand into 3D models and animations.
 
-## 👩‍💻 Author    **Shravani Dakve**
+## 👩‍💻 Author  
+**Shravani Dakve**
 
 ✨ PromptVision bridges human creativity with AI efficiency, making visual content generation seamless, dynamic, and accessible.
 
